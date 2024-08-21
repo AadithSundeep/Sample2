@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS6006NM Java-chat-appll.iml" filepath="$PROJECT_DIR$/.idea/CS6006NM Java-chat-appll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-chat-appll/Java-chat-appll.iml" filepath="$PROJECT_DIR$/Java-chat-appll/Java-chat-appll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-chat-appll/full-chat-app/full-chat-app.iml" filepath="$PROJECT_DIR$/Java-chat-appll/full-chat-app/full-chat-app.iml" />
+    </modules>
+  </component>
+</project>
